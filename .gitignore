@@ -1,0 +1,6 @@
+### Python template
+
+# JetBrains-specific template
+.idea/
+# Virtual environment
+.venv/
